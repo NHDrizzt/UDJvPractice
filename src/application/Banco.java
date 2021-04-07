@@ -8,7 +8,7 @@ public class Banco {
 	public Banco(int numeroConta, String titularConta,  double depositoInicial) {
 		this.numeroConta = numeroConta;
 		this.titularConta = titularConta;
-		this.saldo = depositoInicial;
+		adicionaSaldo(depositoInicial);
 	}
 	
 	public double getSaldo() {
