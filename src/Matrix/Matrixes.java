@@ -9,7 +9,7 @@ public class Matrixes {
 		int a = sc.nextInt(), count=0;
 		int[][] mat = new int[a][a];
 		int[] ar=new int[a];
-		for(int i=0;i<a;i++) {
+		for(int i=0;i<mat[i].length;i++) {
 			for(int j=0;j<a;j++) {
 				mat[i][j] = sc.nextInt();
 				if(i==j) {
