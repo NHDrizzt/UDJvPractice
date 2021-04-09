@@ -1,4 +1,4 @@
-package ListReviw;
+package ListReview;
 
 public class Aluno {
 	private String name;

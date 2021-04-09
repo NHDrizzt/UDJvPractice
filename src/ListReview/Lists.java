@@ -1,4 +1,4 @@
-package ListReviw;
+package ListReview;
 
 import java.util.Scanner;
 
